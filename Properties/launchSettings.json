@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "VisualStateRepro (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "VisualStateRepro (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
